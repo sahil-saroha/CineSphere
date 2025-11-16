@@ -1,10 +1,17 @@
-# iCinema
+CineSphere: Your Personal Universe of Film.
 
-A full-stack MERN website for movie theaters that allows users to browse for films and filter them by available categories and ratings, as well as enables administrators to add new films to the list.
-<img width="1438" alt="ss" src="https://user-images.githubusercontent.com/25881325/67157291-7e05dc00-f32a-11e9-8d0e-00e6ecda5b7d.png">
+CineSphere is a full-stack, responsive web application built with the MERN stack (MongoDB, Express.js, React, Node.js) designed for true movie enthusiasts. Move beyond basic streaming queues and dive deep into the world of cinema.
+
+Discover Your Next Favorite Film: Use our powerful, intuitive filters to explore movies by genre, year, cast, crew, and keywords. Unearth hidden gems you won't find on popular platforms.
+
+Curate & Share Your Experience: Create personalized watchlists, log the films you've seen, and rate and review them. Build your digital film library and share your curated lists with friends.
+
+A Wealth of Information at Your Fingertips: Access detailed information including plot summaries, cast and crew biographies, high-quality trailers, and user-generated reviews—all in one sleek, ad-free interface.
+
+CineSphere isn't just a database; it's a connected community for exploring, discussing, and celebrating the art of film. Start your journey today.
 
 <h2>Installation</h2>
-Use the package manager [npm](https://www.npmjs.com/) to install iCinema.
+Use the package manager [npm](https://www.npmjs.com/) to install CineSphere.
 
 Fork the Project by using:
 
